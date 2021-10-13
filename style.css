@@ -1,0 +1,69 @@
+body{
+    background-color: #EADEB8;
+}
+
+a{
+    font-weight: bold;
+    color: white;
+}
+
+nav{
+    text-align: center;
+    top: 0px;
+    padding: 10px;
+    width: auto;
+    background-color: #C56824;
+}
+
+#sitewelcome{
+    background-color: #813702;
+    padding:    20px;
+    color: #CFB784;
+    text-align: center;
+}
+
+.box{
+    text-align: center;
+    float: left;
+    width: 33.33%;
+    height: auto;
+    padding-bottom: 5px;
+    background-color: #CFB784;
+}
+
+.box2{
+    text-align: center;
+    width: 100%;
+    height: auto;
+    padding-bottom: 10px;
+    background-color: #CFB784;
+}
+.box3{
+    text-align: center;
+    float: left;
+    width: 50%;
+    height: auto;
+    padding-bottom: 5px;
+    background-color: #CFB784;
+}
+
+.imge{
+    padding-top: 20px;
+    width: 50%;
+    max-width: 200px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+footer{
+    font-style: italic;
+    text-align: center;
+    bottom: 0px;
+    padding: 10px;
+    width: auto;
+    background-color: #A09F57;
+}
